@@ -1,4 +1,4 @@
-const searchBox = document.getElementById('searchBox');
+//select search box
 
 //search using children
 
